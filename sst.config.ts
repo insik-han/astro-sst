@@ -5,7 +5,7 @@ export default {
   config(_input) {
     return {
       name: "astro-sst",
-      region: "us-east-1",
+      region: "ap-northeast-2",
     };
   },
   stacks(app) {
